@@ -8,7 +8,7 @@ setup(
     description="A Python library for AI story generation",  # 简短描述
     long_description=open("README.md", encoding="utf-8").read(),  # 详细描述
     long_description_content_type="text/markdown",  # 描述格式
-    url="https://github.com/your_username/AI",  # GitHub 链接
+    url="https://github.com/Tonykai88/AI.git",  # GitHub 链接
     packages=find_packages(),  # 自动发现子包
     include_package_data=True,  # 包括非代码文件
     install_requires=[
