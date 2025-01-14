@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="AI",  # 包名（pip install AI）
+    name="XMW_AI",  # 包名（pip install XMW_AI）
     version="0.1.0",  # 初始版本号
     author="何凯",  # 作者
     author_email="hekai@xiaoma.cn",  # 邮箱
